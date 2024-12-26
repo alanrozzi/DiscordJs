@@ -1,0 +1,31 @@
+{
+  "name": "discordjs",
+  "version": "1.0.0",
+  "description": "Desarrollo de bots con discord.js",
+  "keywords": [
+    "bots",
+    "junior"
+  ],
+  "homepage": "https://github.com/alanrozzi/DiscordJs#readme",
+  "bugs": {
+    "url": "https://github.com/alanrozzi/DiscordJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanrozzi/DiscordJs.git"
+  },
+  "license": "ISC",
+  "author": "Alan Rozzi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "eslint": "^9.17.0"
+  }
+}
